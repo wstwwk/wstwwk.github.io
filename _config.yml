@@ -8,7 +8,7 @@
 # Site settings
 title: wstwwk
 brief-intro: Front-end Dev Engineer
-baseurl: "www.wstwwk.site" # the subpath of your site, e.g. /blog
+baseurl: "/wstwwk.site" # the subpath of your site, e.g. /blog
 url: "www.wstwwk.site" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
