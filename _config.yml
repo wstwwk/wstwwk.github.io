@@ -8,8 +8,8 @@
 # Site settings
 title: wstwwk
 brief-intro: Front-end Dev Engineer
-baseurl: "/wstwwk.site" # the subpath of your site, e.g. /blog
-url: "www.wstwwk.site" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
@@ -17,7 +17,7 @@ permalink: /:year/:month/:day/:title/
 twitter_username: 
 facebook_username: 
 github_username:  wstwwk
-email: wstwwk@126.com
+email: 15620633920@163.com
 weibo_username: 
 zhihu_username: 15620633920
 linkedIn_username: wstwwk
@@ -57,4 +57,4 @@ excerpt_separator: "\n\n\n\n"
 
 # paginate
 gems: [jekyll-paginate]
-paginate: 6
+paginate: 5
